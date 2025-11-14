@@ -13,7 +13,7 @@ Projeto de gerenciamento de contatos desenvolvido para prática em **PHP**, **My
 
 ## Requisitos
 
-* PHP >= 7.4
+* PHP >=  8.0
 * MySQL / phpAdmin
 * Servidor Web (Apache, Nginx)
 * Composer (opcional)
